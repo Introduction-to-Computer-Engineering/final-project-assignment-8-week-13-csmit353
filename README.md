@@ -22,8 +22,13 @@
 
 *Imgur Video: [digital-in.js](https://imgur.com/gallery/JgSFuxS)*
 
-
-This assignment [README](README.md) is _intentionally_ blank. It is part of the assignment to fill it. Read the [requirements](requirements.md) and [criteria](criteria.md).
+  a.
+  
+  b.
+  
+  c.
+  
+  d. 
  
 ### SparkFun [I2C tutorial](https://learn.sparkfun.com/tutorials/i2c).
      
