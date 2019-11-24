@@ -1,3 +1,7 @@
+# CPE 1040 - Introduction to Computer Engineering
+
+## Assignment: Final Project
+
 ### [original-guide](original-guide.js)
 
 **This first java script file contains code that controls three external LEDs. For this program, the microbit LED screen is disabled so pins 6, 8, and 9 can be used for i/o's.** 
