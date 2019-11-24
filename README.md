@@ -30,6 +30,8 @@
 
 *Imgur Video: [digital-in.js](https://imgur.com/gallery/JgSFuxS)*
 
+#### [manual-calibration](manual-calibration.js)
+
 ### Oscilloscopes 
   a.
   
