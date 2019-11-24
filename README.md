@@ -32,7 +32,7 @@
 ### Oscilloscopes 
   a.
   
-  b.
+  b. [Imgur Video](https://imgur.com/a/ICwsE6Q)
   
   c. [Imgur Video](https://imgur.com/a/0IYuvEC).
   
