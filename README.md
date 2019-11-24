@@ -28,7 +28,7 @@
   
   c.
   
-  d. 
+  d. [manual-calibration](manual-calibration.js).
  
 ### SparkFun [I2C tutorial](https://learn.sparkfun.com/tutorials/i2c).
      
