@@ -34,7 +34,7 @@
   
   b.
   
-  c. 
+  c. [Imgur Video](https://imgur.com/a/0IYuvEC).
   
   d. [manual-calibration](manual-calibration.js).
      
