@@ -26,15 +26,19 @@
 
 *Imgur Video: [digital-in.js](https://imgur.com/gallery/JgSFuxS)*
 
-  a.
-  
-  b.
-  
-  c.
-  
-  d. [manual-calibration](manual-calibration.js).
+
+
  
-### SparkFun [I2C tutorial](https://learn.sparkfun.com/tutorials/i2c).
+### Oscilloscopes 
+   a.
+   
+   b.
+   
+   c.
+   
+   d.
+   
+### SparkFun Questions
      
 *1. The main issue with UART is that it is a 'asynchronous port.' This means that connected devices must first agree on data rate, communication is restricted to only two divices, hardware overhead, and data rate. SPI has issues because of the amount of pins needed, which effects layout, and the fact that it only allows for one master on the bus. I2C fixes these issues by giving these prolems more capabilites. Asynchronous ports supposrt moe slaves, it allows more masters on bus, and better communication rates.* 
 
