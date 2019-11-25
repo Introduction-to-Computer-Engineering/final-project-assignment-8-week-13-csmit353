@@ -22,7 +22,6 @@
 
   *Imgur Video: [Twenty-Eight.js](https://imgur.com/gallery/kMVHQRg)*
 
-
 ### Soil Sensor
 
   #### [digital-in](digital-in.js)
@@ -37,6 +36,7 @@
 
 
 ### Oscilloscopes 
+   
    a.
   
    b. [Imgur Video](https://imgur.com/a/ICwsE6Q)
@@ -57,8 +57,6 @@
   *4. The two types of protocol frames are Address and Data. Address frames always come first and dictates the order of operations in an address. Data frames follow after address frames and begins the data transmitting process.* 
 
   *5. What is the most appropriate _trigger_ for capturing an I2C frame on the oscilloscope? Clock stretching is the most appropriate trigger for capturing an I2C frame on an oscilloscope. This is because the slaves hold the clock low, forcing the master to wait for its signal.* 
-
-  *6. (Advanced) If the micro:bit is configured by default as a _master_, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (**Bonus** for a convincing argument, one way or another.)*
   
 ### I2C 
   
@@ -67,11 +65,17 @@
  *[Code For I2C](I2C-code.js)*
 
 **Part 1: [Picture](https://imgur.com/a/j8gZvXI)**
+ 
   a. I captured a frame with two channel inputs. Channel 2 had a much higher frequency while channel one had a wider period. 
-  b.
-  c.
+  
+  b. When there is nothing connected, the function changes drastically. The wires pick up quite a bit of noise and it has more of a triangular shape, rather then a block shape. 
+ 
+  c. Yes, I notice a change in the capture when I write a number in the address.
+
 **Part 2: [Picture](https://imgur.com/a/Zn5JSfy)**
+  
   d. I had difficulty with this step and did not get readings and values.
+  
   e. I did, however, notice that moving the microbit around effected what I was seeing on the oscilloscope.
   
 
