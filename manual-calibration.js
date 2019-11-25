@@ -1,11 +1,14 @@
-let percent_list: number[] = [15, 20, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 90, 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20, 15];
-let i: number = 0
-// P = 20000 usec
-const P: number = 20000 // microseconds
-basic.forever(function () {
-    pins.servoSetPulse(AnalogPin.P0, P * percent_list[i] / 100.0);
-    i = (i + 1) % percent_list.length
-    basic.pause(2000);
-})
+let MoistureLevel: number = 0;
+let ScaledLevel = pins.map(MoistureLevel, 0, 4, 10, 500)
 
-// period * 15/100
+basic.forever(function () {
+    pins.digitalWritePin(DigitalPin.P8, 1);
+    MoistureLevel = pins.analogReadPin(AnalogPin.P0)
+    pins.digitalWritePin(DigitalPin.P8, 0);
+
+    led.plot(0, ScaledLevel)
+    basic.pause(100);
+    led.unplot(0, ScaledLevel)
+    basic.pause(1000);
+
+}) 
