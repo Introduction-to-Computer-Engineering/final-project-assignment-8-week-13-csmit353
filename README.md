@@ -59,4 +59,4 @@
   *6. (Advanced) If the micro:bit is configured by default as a _master_, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (**Bonus** for a convincing argument, one way or another.)*
   
 ### I2C Code
-  *[Code For I2C](I2C-code.js*)
+  *[Code For I2C](I2C-code.js)*
