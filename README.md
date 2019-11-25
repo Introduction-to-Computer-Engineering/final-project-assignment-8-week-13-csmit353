@@ -43,7 +43,7 @@
   
    c. [Imgur Video](https://imgur.com/a/0IYuvEC).
   
-   d. [continuous-signal.js](manual-calibration.js).
+   d. [continuous-signal.js](continuous-signal.js).
      
 
 ### SparkFun Questions
