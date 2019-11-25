@@ -64,10 +64,14 @@
   
 #### Address capture
  
- **Part 1: [Picture]()**
-  a. 
- 
+ *[Code For I2C](I2C-code.js)*
+
+**Part 1: [Picture](https://imgur.com/a/j8gZvXI)**
+  a. I captured a frame with two channel inputs. Channel 2 had a much higher frequency while channel one had a wider period. 
+  b.
+  c.
+**Part 2: [Picture](https://imgur.com/a/Zn5JSfy)**
+  d. I had difficulty with this step and did not get readings and values.
+  e. I did, however, notice that moving the microbit around effected what I was seeing on the oscilloscope.
   
-  d. 
-  
-  *[Code For I2C](I2C-code.js)*
+
