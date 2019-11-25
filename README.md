@@ -32,6 +32,8 @@
   *Imgur Video: [digital-in.js](https://imgur.com/gallery/JgSFuxS)*
 
   #### [manual-calibration](manual-calibration.js)
+  
+   **This code cycles signals for the oscilloscope to read. The microbit does this by bouncing the duty cycle between a range of 5-95% and will look like blocks on the screen of the oscilloscope.**
 
 
 ### Oscilloscopes 
@@ -41,7 +43,7 @@
   
    c. [Imgur Video](https://imgur.com/a/0IYuvEC).
   
-   d. [manual-calibration](manual-calibration.js).
+   d. [continuous-signal.js](manual-calibration.js).
      
 
 ### SparkFun Questions
