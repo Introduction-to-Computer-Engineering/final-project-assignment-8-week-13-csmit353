@@ -63,7 +63,10 @@
 ### I2C 
   
 #### Address capture
-  c. 
+ 
+ **Part 1: [Picture]()**
+  a. 
+ 
   
   d. 
   
