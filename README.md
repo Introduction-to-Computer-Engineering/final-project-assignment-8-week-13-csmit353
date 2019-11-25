@@ -57,3 +57,6 @@
   *5. What is the most appropriate _trigger_ for capturing an I2C frame on the oscilloscope? Clock stretching is the most appropriate trigger for capturing an I2C frame on an oscilloscope. This is because the slaves hold the clock low, forcing the master to wait for its signal.* 
 
   *6. (Advanced) If the micro:bit is configured by default as a _master_, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (**Bonus** for a convincing argument, one way or another.)*
+  
+### I2C Code
+  *[Code For I2C]()
